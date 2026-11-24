@@ -1,0 +1,21 @@
+{
+  "name": "Duolingo Personas",
+  "dataColors": ["#1CB0F6", "#FF4B4B", "#58CC02", "#FF9600", "#CE82FE", "#AFAFAF", "#58A700", "#1899D6"],
+  "background": "#FFFFFF",
+  "foreground": "#3C3C3C",
+  "tableAccent": "#58CC02",
+  "good": "#58CC02",
+  "neutral": "#FF9600",
+  "bad": "#FF4B4B",
+  "textClasses": {
+    "title":   {"fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#3C3C3C"},
+    "label":   {"fontFace": "Segoe UI", "fontSize": 10, "color": "#6B6B6B"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#58A700"}
+  },
+  "visualStyles": {
+    "*": {"*": {
+      "title": [{"show": true, "fontColor": {"solid": {"color": "#3C3C3C"}}}],
+      "border": [{"show": true, "color": {"solid": {"color": "#E5E5E5"}}, "radius": 8}]
+    }}
+  }
+}
