@@ -47,7 +47,6 @@ duolingo-learner-personas/
 ├── outputs/               # clusters.csv, learners_clustered.csv, persona_profiles.csv, persona_recommendations.csv
 ├── powerbi/               # Duolingo_Learner_Personas_Dashboard.pbix, duolingo_theme.json, DAX_and_build_guide.md
 ├── dashboard/             # dashboard_overview.png, dashboard PDF
-├── requirements.txt
 └── README.md
 ```
 
@@ -69,4 +68,4 @@ Python (pandas, NumPy, scikit-learn, seaborn, matplotlib), K-Means, Gaussian Mix
 Duolingo-style learner activity dataset (StrataScratch project): 6,000 learners, 18 columns, last 90 days of activity.
 
 ## Author
-**Your Name** | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link)
+**ANEENA KM** | https://www.linkedin.com/in/aneena-km-27a48932b/
